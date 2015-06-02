@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "app-name": "tictactoe",
+    "architecture": false,
+    "styles-language": "css"
+  }
+}
