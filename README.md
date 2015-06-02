@@ -1,2 +1,3 @@
 # react-simple-tictactoe
-A super simple react tic tac toe
+
+A TicTacToe using [ React framework.](https://github.com/facebook/react "React")
